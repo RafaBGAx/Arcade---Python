@@ -5,10 +5,10 @@
  Codigo feito em Python com a biblioteca PyGame.
 
  Membros do grupo : 
- Beatriz Mogas
- Leandro Machado
- Rafael Mansilhas
- Rafael Alves 
- Ricardo Campinho 
+ Beatriz Mogas //
+ Leandro Machado //
+ Rafael Mansilhas //
+ Rafael Alves  //
+ Ricardo Campinho //
 
 
