@@ -5,7 +5,7 @@
  Codigo feito em Python com a biblioteca PyGame.
 
  Membros do grupo : 
- Beatriz Mogas - Labirinto
+Beatriz Mogas - Labirinto
  Leandro Machado - Fuga!
  Rafael Mansilhas- Spaceshooter
  Rafael Alves - Flappy Bird
