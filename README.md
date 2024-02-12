@@ -5,10 +5,10 @@
  Codigo feito em Python com a biblioteca PyGame.
 
  Membros do grupo : 
-Beatriz Mogas - Labirinto
- Leandro Machado - Fuga!
- Rafael Mansilhas- Spaceshooter
- Rafael Alves - Flappy Bird
- Ricardo Campinho - Pacman
+ Beatriz Mogas
+ Leandro Machado
+ Rafael Mansilhas
+ Rafael Alves 
+ Ricardo Campinho 
 
 
