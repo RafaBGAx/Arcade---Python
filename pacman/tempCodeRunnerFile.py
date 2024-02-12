@@ -1,0 +1,1 @@
+ espera em milissegundos entre teletransportes
